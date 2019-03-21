@@ -1,0 +1,23 @@
+{
+	"name": "drfoojs",
+	"version": "0.0.1",
+	"description": "Just like a real Doctor",
+	"license": "MIT",
+	"repository": "YeasterEgg/drfoojs",
+	"author": {
+		"name": "Yeasteregg",
+		"email": "l.d.mattiazzi@gmail.com",
+		"url": "https://grokked.it"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"sound", "animations"
+	],
+	"dependencies": {},
+	"devDependencies": {}
+}
